@@ -1,0 +1,26 @@
+{
+  "name": "upload2s3",
+  "version": "1.0.0",
+  "description": "A robust S3 uploader, with expotential backoff and multipart support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BranchMetrics/upload2s3.git"
+  },
+  "keywords": [
+    "s3",
+    "aws",
+    "amazon",
+    "upload",
+    "buffer"
+  ],
+  "author": "Dmitri Gaskin <dmitrig01@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BranchMetrics/upload2s3/issues"
+  },
+  "homepage": "https://github.com/BranchMetrics/upload2s3"
+}
